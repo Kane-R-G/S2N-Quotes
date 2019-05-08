@@ -1,0 +1,21 @@
+$colours: (
+    quote-border: #333,
+    quote-text: #555555
+);
+ 
+
+@function colour($colour-name){
+    @return map-get($colours, $colour-name);
+}
+
+.quote-container{
+    color: colour( quote-text );
+    border: 1px solid colour( quote-border );
+    height: auto;
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}

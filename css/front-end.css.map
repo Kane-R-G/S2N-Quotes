@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAUA,AAAA,gBAAgB,CAAA;EACZ,KAAK,EATO,OAAO;EAUnB,MAAM,EAAE,GAAG,CAAC,KAAK,CAXH,IAAI;EAYlB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,GAAG;EACZ,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "front-end.scss"
+    ],
+    "names": [],
+    "file": "front-end.css"
+}
